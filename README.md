@@ -13,6 +13,8 @@ This project serves as a proof of concept for automated tactical analysis in com
 
 The system combines YOLO object detection with custom CNN classifiers to achieve enhanced accuracy in agent identification.
 
+**Note** This program only visualizes PLAYER vision, it doesn't take into account utility vision(trips, turrets, cameras).
+
 ![Screenshot of tracking](images/tracker_image.png)
 ![Screenshot of visualizer](images/visualizer_image.png)
 
