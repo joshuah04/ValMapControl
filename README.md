@@ -2,6 +2,9 @@
 
 A computer vision and machine learning system that analyzes Valorant gameplay videos to track agent movements, detect orientations, and visualize tactical map control in real-time.
 
+![GIF of Original Video](images/Ex1.gif) ![GIF of Tracked Video](images/Ex2.gif)
+![GIF of Visualized Video](images/Ex3.gif)
+
 ## Purpose and Proof of Concept
 
 This project serves as a proof of concept for automated tactical analysis in competitive gaming. It demonstrates how computer vision techniques can be applied to extract meaningful strategic insights from gameplay footage, including:
@@ -13,8 +16,7 @@ This project serves as a proof of concept for automated tactical analysis in com
 
 The system combines YOLO object detection with custom CNN classifiers to achieve enhanced accuracy in agent identification.
 
-![Screenshot of tracking](images/tracker_image.png)
-![Screenshot of visualizer](images/visualizer_image.png)
+![Screenshot of tracking](images/tracker_image.png) ![Screenshot of visualizer](images/visualizer_image.png)
 
 ## Features
 
